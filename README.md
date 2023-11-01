@@ -1,37 +1,22 @@
 # .net core clean architecture 
-# Branch Amacı
- 
-step step alışveriş yapma bolumu yapılacak 
-
-# DEKAM 
-Erciyes Üniversitesi Deneysel Araştırmalar Uygulama ve Araştırma Merkezi
-
-# Proje hakkında 
-
-Yapılması istenen iş tanımı:
-
-    Web sitesinin yenilenmesi
-    Deney hayvanı satışı yapıldığı için satış yapılan hayvanların siparişinin web sayfası üzerinde yapılabilmesi amacıyla alışveriş sepeti 
-	uygulaması isteniyor ve satışa göre (öncesi ve sonrası için) pdf çıktı üretilmesi ve raporlanması işleri isteniyor.
-    Web sitesi üzerinden çalışma izin belgesi oluşturulması,izin belgesi pdf çıktısı oluşturulması ve rapor sistemi
-
+ .net Core clean code, ecommerce project 
 # TODO
 
-   -İçerik ekleme sistemi-
+  -Content adding system-
    
-   -Üyelik Sistemi-
-	
-   Menü Yönetim sistemi 
+    -Membership System-
+
+    Menu Management system
    
-   Slider Yönetimi
+    Slider Management
    
-   Video ve Resim Galerisi 
+    Video and Image Gallery
    
-   Personel Bilgisi
+    Personnel Information
    
-   Sipariş satış sistemi 
+    Order sales system
    
-   Çalışma izin belgesi oluşturulması 
+    Creating a work permit document
    
    https://github.com/thangchung/awesome-dotnet-core#template-engine
    
